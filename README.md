@@ -1,4 +1,4 @@
-# BlogAi
+# AiBlog
 
 A blog that's created by AI with openai API & vercel blog template.
 
